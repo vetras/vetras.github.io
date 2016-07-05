@@ -20,4 +20,14 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
+  <ul>
+{% for link in site.data.links %}
+  <li>
+    <a href="{{ link.url }}">
+      {{ link.text }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 </div>

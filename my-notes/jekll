@@ -1,0 +1,30 @@
+
+font matter and variables:
+    https://jekyllrb.com/docs/frontmatter/
+
+add a page (use folder to specify URL)
+    ├── about/
+    |   └── index.html  # => http://example.com/about/
+    ├── contact/
+    |   └── index.html  # => http://example.com/contact/
+    |── other/
+    |   └── index.md    # => http://example.com/other/
+    └── index.html      # => http://example.com/
+
+add a page (use filename to specify URL)
+    |-- about.html    # => http://example.com/about.html
+    |-- index.html    # => http://example.com/
+    |-- other.md      # => http://example.com/other.html
+    └── contact.html  # => http://example.com/contact.html
+
+data filters built in 
+    default:         https://jekyllrb.com/docs/templates/
+    we can add more: https://jekyllrb.com/docs/plugins/#liquid-filters
+
+Jekyll has built in support for syntax highlighting
+    https://jekyllrb.com/docs/templates/#code-snippet-highlighting
+
+Jekyll and github pages:
+    https://jekyllrb.com/docs/github-pages/
+
+
