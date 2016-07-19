@@ -17,3 +17,4 @@ github_username:  vetras
 
 # Build settings
 markdown: kramdown
+exclude: ['my-notes']

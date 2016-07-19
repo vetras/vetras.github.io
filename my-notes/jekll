@@ -27,4 +27,7 @@ Jekyll has built in support for syntax highlighting
 Jekyll and github pages:
     https://jekyllrb.com/docs/github-pages/
 
+Page-specific Assets (js, css, etc)
+    http://mattgemmell.com/page-specific-assets-with-jekyll/
+
 
