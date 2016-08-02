@@ -1,0 +1,2 @@
+Validate the output html with:
+https://validator.w3.org/
