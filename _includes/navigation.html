@@ -29,8 +29,8 @@
 				{% if site.owner.github %}<li>
 					<a href="https://github.com/{{ site.owner.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
 				</li>{% endif %}
-				{% if site.owner.stackexchange %}<li>
-					<a href="{{ site.owner.stackexchange }}"><i class="fa fa-fw fa-stack-exchange"></i> Stackexchange</a>
+				{% if site.owner.stackoverflow %}<li>
+					<a href="{{ site.owner.stackoverflow }}"><i class="fa fa-fw fa-stack-overflow"></i> Stack Overflow</a>
 				</li>{% endif %}
 				{% if site.owner.instagram %}<li>
 					<a href="https://instagram.com/{{ site.owner.instagram }}"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
@@ -48,6 +48,7 @@
 			<ul class="dl-submenu">
 				<li><a href="{{ site.url }}/posts/">All Posts</a></li>
 				<li><a href="{{ site.url }}/tags/">All Tags</a></li>
+				<li><a href="{{ site.url }}/feed.xml">RSS Feed</a></li>
 			</ul>
 		</li>
 		{% for link in site.data.navigation %}
