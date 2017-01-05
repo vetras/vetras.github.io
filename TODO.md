@@ -9,6 +9,8 @@
 1. add a list of good books
 1. get a favicon
 1. fix the font size. the first paragraph is bigger than the others
+1. fix the max image size because when we enlarge too much the image zooms too much -- see the home page
+
 
 invite folks to hearthstone
 https://battle.net/recruit/VPLLS2CZ66?blzcmp=raf-hs&s=HS&m=pc
