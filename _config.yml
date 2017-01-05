@@ -3,9 +3,10 @@ description:      It is not enough for code to work. -- Uncle Bob
 disqus_shortname: https-vetras-github-io
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-#url: https://vetras.github.io/
+
+# Your site's domain goes here -- When testing locally leave blank or use http://localhost:4000
+#url: https://mrfields.net
+#enforce_ssl: mrfields.net
 url: http://127.0.0.1:4000
 
 # Owner/author information
@@ -35,8 +36,8 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Portugal/Lisbon
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Lisbon
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
