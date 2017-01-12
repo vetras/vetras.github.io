@@ -1,16 +1,18 @@
 # TODO
 
 1. Add GA tracking code
-1. Images and backgrounds
-1. setup/buy a url domain 
-    1. update disqus after that
+
 1. Validate my domain to allow twitter cards https://dev.twitter.com/cards/overview    
     Twitter cards are supported by this theme already, i just need to setup the twitter username (already done) and the above
-1. add a list of good books
+
+1. add a list of good books -- maybe a section "books i recommend"
 1. get a favicon
 1. fix the font size. the first paragraph is bigger than the others
-1. fix the max image size because when we enlarge too much the image zooms too much -- see the home page
+1. add sync to auto reload brownser to jekyll
 
 
-invite folks to hearthstone
-https://battle.net/recruit/VPLLS2CZ66?blzcmp=raf-hs&s=HS&m=pc
+1. "Readings of the month section"
+    could be displayed on a table format with added date title notes when you click opens a new tab
+    could have an archive of past months
+    think on how to add new entries easily
+    

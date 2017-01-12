@@ -3,6 +3,7 @@ layout: post
 title: HTTPS All The Things
 description: security matters
 tags: [security, post]
+share: true
 image:
   background: ps_neutral.png
   feature: lock.jpeg
