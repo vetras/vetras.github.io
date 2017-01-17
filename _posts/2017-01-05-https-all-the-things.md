@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTTPS All The Things
-description: security matters
+description: "Security matters. So does privacy."
 tags: [security, post]
 share: true
 image:

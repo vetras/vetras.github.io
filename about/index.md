@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About the site
+comments: true
 image:
   feature: about.jpg
-comments: false
-modified: 2017-01-12
+  credit: Mr Fields
+  creditlink: https://www.instagram.com/p/BJ-FnlRDMw_
 ---
 
 Some say the best way to learn something is to try to explain it.
@@ -20,11 +21,3 @@ I try to keep on learning every day and I do enjoy it!
 In my opinion, any developer who stays in his confort zone too long, will eventually be outdated and the things he knows today will be worthless (or unvaluable).
 
 Learning is the only way forward, and I wouldn't have it any other way!
-
-
-
-
-
-
-
-
