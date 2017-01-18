@@ -21,7 +21,7 @@ One of the features it lacks though, is the ability to use HTTPS with a custom d
 It will allow it [eventually](https://github.com/isaacs/github/issues/156), but not today.
 
 However, fear not!
-This is 2017 and we use computers, therfore we can do whatever we want. It's just a matter of how much effort are you willing to put in.
+This is 2017 and we use computers, therefore we can do whatever we want. It's just a matter of how much effort are you willing to put in.
 
 Some clever folks come up with some workarounds like [this](https://blog.keanulee.com/2014/10/11/setting-up-ssl-on-github-pages.html) and [this](https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/).
 
