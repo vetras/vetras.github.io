@@ -1,12 +1,6 @@
+#
 # Menu navigation links
-
-# COMENTED THESE OUT BUT I DONT WANT TO DELETE THEM JUST YET
-#- title: Theme Setup
-#  url: /theme-setup/
-
-#- title: External Link
-#  url: http://mademistakes.com
-
+#
 - title: The Cool Internet
   url: /the-cool-internet/
 
