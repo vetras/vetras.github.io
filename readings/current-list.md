@@ -1,6 +1,12 @@
 
 - [Uncle Bob -- The dark Path](http://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html) 
-    - which lead to this -- [Uncle Bob -- The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html) 
-- [SemVer -- an Anti-pattern]( https://surfingthe.cloud/semantic-versioning-anti-pattern/) but is it?
-- [Docker Containers are not VMs](https://blog.docker.com/2016/03/containers-are-not-vms/) true that. Not rocket science but some concepts take time to sink in.
-
+  - which lead me to this: [Uncle Bob -- The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html) 
+- [SemVer -- an Anti-pattern]( https://surfingthe.cloud/semantic-versioning-anti-pattern/)
+  - But is it?
+- [Docker Containers are not VMs](https://blog.docker.com/2016/03/containers-are-not-vms/)
+  - True that. It's not rocket science, but some concepts take time to sink in.
+- [Live Reload with Jekyll](http://dan.doezema.com/2014/01/setting-up-livereload-with-jekyll/)
+  - Do a Live reload of the browser when editing code on jekyll. We need yet another gem but it works. On windows, we need ruby DevKit installed. Hey, but it works.
+- [Raising chickens, low-cost dinosaurs](https://medium.com/@ruicardosoesteves/raising-chickens-low-cost-dinosaurs-f12852a0ef64#.gxh32vkdx)
+- [Reverse Engineered 16k apps](https://hackernoon.com/we-reverse-engineered-16k-apps-heres-what-we-found-51bdf3b456bb#.1j0anuo57)
+    - F-E-A-R
