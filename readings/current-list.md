@@ -10,3 +10,12 @@
 - [Raising chickens, low-cost dinosaurs](https://medium.com/@ruicardosoesteves/raising-chickens-low-cost-dinosaurs-f12852a0ef64#.gxh32vkdx)
 - [Reverse Engineered 16k apps](https://hackernoon.com/we-reverse-engineered-16k-apps-heres-what-we-found-51bdf3b456bb#.1j0anuo57)
     - F-E-A-R
+- [How to C in 2016](https://matt.sh/howto-c)
+- [Ask HN: If you were to switch career, what would you do?](https://news.ycombinator.com/item?id=13334480)
+- [Ask HN: If you restarted your career, what would you do differently?](https://news.ycombinator.com/item?id=11641453)
+- [You Dont Need JS](https://github.com/you-dont-need/You-Dont-Need-Javascript)
+- [Date Dropper](http://felicegattuso.com/projects/datedropper/)
+  - a jquery date that is really easy to use
+- [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
+  - We all know this, but it never gets old.
+- [Google Has Started Penalizing Mobile Websites With Intrusive Pop-Up Ads](https://www.scribblrs.com/google-now-penalizing-mobile-ads/)
