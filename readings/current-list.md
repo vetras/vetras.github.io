@@ -1,21 +1,44 @@
 
-- [Uncle Bob -- The dark Path](http://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html) 
-  - which lead me to this: [Uncle Bob -- The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html) 
-- [SemVer -- an Anti-pattern]( https://surfingthe.cloud/semantic-versioning-anti-pattern/)
-  - But is it?
-- [Docker Containers are not VMs](https://blog.docker.com/2016/03/containers-are-not-vms/)
-  - True that. It's not rocket science, but some concepts take time to sink in.
-- [Live Reload with Jekyll](http://dan.doezema.com/2014/01/setting-up-livereload-with-jekyll/)
-  - Do a Live reload of the browser when editing code on jekyll. We need yet another gem but it works. On windows, we need ruby DevKit installed. Hey, but it works.
-- [Raising chickens, low-cost dinosaurs](https://medium.com/@ruicardosoesteves/raising-chickens-low-cost-dinosaurs-f12852a0ef64#.gxh32vkdx)
-- [Reverse Engineered 16k apps](https://hackernoon.com/we-reverse-engineered-16k-apps-heres-what-we-found-51bdf3b456bb#.1j0anuo57)
-    - F-E-A-R
-- [How to C in 2016](https://matt.sh/howto-c)
-- [Ask HN: If you were to switch career, what would you do?](https://news.ycombinator.com/item?id=13334480)
-- [Ask HN: If you restarted your career, what would you do differently?](https://news.ycombinator.com/item?id=11641453)
-- [You Dont Need JS](https://github.com/you-dont-need/You-Dont-Need-Javascript)
-- [Date Dropper](http://felicegattuso.com/projects/datedropper/)
-  - a jquery date that is really easy to use
-- [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
-  - We all know this, but it never gets old.
-- [Google Has Started Penalizing Mobile Websites With Intrusive Pop-Up Ads](https://www.scribblrs.com/google-now-penalizing-mobile-ads/)
+- [Uncle Bob -- TDD Harms Architecture](http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html)
+  - and more: [Ian Cooper: TDD, where did it all go wrong](https://vimeo.com/68375232)
+
+- [Mediatr Pattern](https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/)
+  - Have I discovered the holy grail of backend development? It sounds amasing, I'm looking forward to try it in real life.
+  - [Martin Fowler - CQRS](https://martinfowler.com/bliki/CQRS.html) -- M.F. never lets me down
+  - [Martin Fowler - Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+  - [CQRS vs the-world](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)
+
+- [n-gate](http://n-gate.com/hackernews/)
+  - Some internet dude writes his own ramblings about each top link in Hack News every week. The dude's a god!
+
+- [Libre Taxi](https://news.ycombinator.com/item?id=13529213)
+  - Interesting Idea... [More about how it come to life](https://medium.com/@romanpushkin/how-i-made-uber-like-app-in-no-time-with-javascript-and-secret-sauce-94ef9120c7f6#.lnoqqf2qt)
+
+- [Let's Stop Calling them Soft Skills](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#---0-37.w6itkziwa)
+
+- [AWS S3 went Down](https://aws.amazon.com/message/41926/)
+  - and half the internet stopped -- funny when it is not your code !
+
+- [Japanese Internment](https://twitter.com/i/moments/825046410370375684)
+  - I did not know what [Japanese Interment](https://en.wikipedia.org/wiki/Internment_of_Japanese_Americans) was. These crimes against humanity ought to be remembered not to be repeated. It is so sad.
+
+- [Architecture Astronauts](https://www.joelonsoftware.com/2008/05/01/architecture-astronauts-take-over/) an oldie from 2006 -- always a good read/re-read
+
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli)
+  - Awsome Idea: fuzzy-search to kill processes -- Seek and destroy !!
+
+- [Debug Node in Visual Studio Code](https://alexanderzeitler.com/articles/debugging-a-nodejs-es6-application-in-a-docker-container-using-visual-studio-code/) when all else fails...
+
+- [Wireless Power Transfer](https://news.ycombinator.com/item?id=13663193)
+  - always good to read some science fiction ...
+
+- [.netcore environments](http://andrewlock.net/configuring-environment-specific-services-in-asp-net-core-part-2/)
+
+- [Online Code formatting tool](http://codebeautify.org/)
+
+- [Cross-Site Request Forgery is dead](https://scotthelme.co.uk/csrf-is-dead/)
+
+- [Sam Altman - What I Heard From Trump Supporters](http://blog.samaltman.com/what-i-heard-from-trump-supporters) -- "not statistically significantly different from 0", but a very good read
+
+- [VS 2017 Release Notes](https://www.visualstudio.com/en-us/news/releasenotes/vs2017-relnotes) -- YAYY!!
+

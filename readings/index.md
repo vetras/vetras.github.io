@@ -20,9 +20,8 @@ And share it!
 Enjoy!
 
 
-## Readings of the Month
+# Readings of the Month
 
 {% include_relative current-list.md %}
 
-
-
+{% include_relative archive/2017/jan.md %}
