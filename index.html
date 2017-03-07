@@ -11,6 +11,11 @@ image:
 ---
 
 {% for post in paginator.posts %}
+
+{% if post.draft == true %}
+    {% continue %}
+{% endif %}
+
 <article class="hentry">
   <header>
     {% if post.image.feature %}

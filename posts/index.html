@@ -15,7 +15,9 @@ comments: false
       <ul>
     {% endif %}
 
+    {% if post.draft != true %}
         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endif %}
 
     {% if forloop.last %}
       </ul>

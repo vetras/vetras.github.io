@@ -24,4 +24,5 @@ Enjoy!
 
 {% include_relative current-list.md %}
 
+{% include_relative archive/2017/feb.md %}
 {% include_relative archive/2017/jan.md %}
