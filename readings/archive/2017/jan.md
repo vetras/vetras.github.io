@@ -23,5 +23,5 @@
 - [Google Has Started Penalizing Mobile Websites With Intrusive Pop-Up Ads](https://www.scribblrs.com/google-now-penalizing-mobile-ads/)
 - [Just a Litle AWK](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html)
 - [PIP-ENV for mac](https://www.kennethreitz.org/essays/announcing-pipenv)
-  - [and there are some other interesting posts as well](https://www.kennethreitz.org/essays/announcing-pipenv)
+  - [and there are some other interesting posts as well](https://www.kennethreitz.org/)
 
