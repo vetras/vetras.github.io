@@ -13,3 +13,11 @@
 - [The Guy that is saving the world](https://www.youtube.com/watch?v=WaAJAwi3Q1U) (Elon Musk)-- I would not have said it better myself
 - An AI rant... or is it? [Why AI will probably kill us all](https://www.youtube.com/watch?v=SPAmbUZ9UKk)
 - [The Happiness Experiment](https://www.youtube.com/watch?v=hEd4UW5f7s4&t=6s) -- or how to build a "commitment contract" with yourself
+
+- [TED Talk on Procastination](https://waitbutwhy.com/2016/03/my-ted-talk.html)
+  - [Preparing the talk](https://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html)
+- [Shakespeare's Words](http://waitbutwhy.com/2015/07/shakespeare-coined-mad-words.html)
+- [Spectacular Video Putting WWII Deaths in Perspective](https://waitbutwhy.com/2015/06/spectacular-video-putting-wwii-deaths-perspective.html)
+  - [and this](http://waitbutwhy.com/2013/08/the-death-toll-comparison-breakdown.html)
+  - [Yellow River flood](https://en.wikipedia.org/wiki/1938_Yellow_River_flood) -- In 1938, China flooded the yellow river to (try to) stop japanese troop's advance.
+  - [An Lushan Rebellion](https://en.wikipedia.org/wiki/An_Lushan_Rebellion) -- In 755, general "An Lushan" declared himself emperor in Northern China, starting a war with the current Tang dynasty. Eventually he lost, but the death toll reached two-thirds of the population of the empire -- around 36 million souls -- a sixth of the worlds population at the time.
