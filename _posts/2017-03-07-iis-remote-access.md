@@ -36,8 +36,19 @@ You can install this little helper [IIS Proxy] with:
 
 ```sh
     $ npm install -g iisexpress-proxy
-    $ iisexpress-proxy localPort to proxyPort
+    $ iisexpress-proxy host:localPort to proxyPort
     # now open <your-ip>:<proxyPort> on "any" machine and marvel...
+```
+
+Sample output:
+```sh
+    $ iisexpress-proxy 192.168.1.93:60534 to 5001
+    IIS Express Proxy 1.1.8
+    Proxying http://192.168.1.93:60534 to network interfaces:
+            VPN Connection: 10.50.100.173:5001
+            Local Area Connection: 192.168.1.93:5001
+            VirtualBox Host-Only Network: 192.168.56.1:5001
+    Listening... [press Control-C to exit]
 ```
 
 # The Right Way
