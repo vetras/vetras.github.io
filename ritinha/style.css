@@ -1,0 +1,25 @@
+* {
+    background-color: rgba(255,192,203,0.5);
+}
+
+.container {
+    padding: 5% 0;
+    min-height: 10px;
+}
+
+.center
+{
+    text-align: center;
+    padding: 10% 0;
+}
+
+.content {
+    padding: 0 0;
+    margin: 0;
+    font-size: 500%;
+    font-family: 'Bungee Inline', cursive;
+    /*border: 2px solid  red;*/
+}
+
+
+
