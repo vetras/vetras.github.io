@@ -21,3 +21,16 @@
   - [and this](http://waitbutwhy.com/2013/08/the-death-toll-comparison-breakdown.html)
   - [Yellow River flood](https://en.wikipedia.org/wiki/1938_Yellow_River_flood) -- In 1938, China flooded the yellow river to (try to) stop japanese troop's advance.
   - [An Lushan Rebellion](https://en.wikipedia.org/wiki/An_Lushan_Rebellion) -- In 755, general "An Lushan" declared himself emperor in Northern China, starting a war with the current Tang dynasty. Eventually he lost, but the death toll reached two-thirds of the population of the empire -- around 36 million souls -- a sixth of the worlds population at the time.
+
+- [New Battery?](https://news.utexas.edu/2017/02/28/goodenough-introduces-new-battery-technology) -- 3 times the energy density? (a.k.a 3 times more range) Faster charge/discharge cycles (a.k.a more power)? made of glass and sodium? I can definitely say: Looks promising.
+
+- [Automatic "Photoshop" copy-paste](https://github.com/luanfujun/deep-photo-styletransfer)
+
+- [Honest Feedback](https://m.signalvnoise.com/unlock-honest-feedback-with-this-one-word-dcaf3839e7ee)
+- [Growth devours](https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131)
+
+- [Jaguar I-pace](http://insideevs.com/jaguar-i-pace-220-mile-all-electric-i-pace-suv-to-arrive-in-2018/)
+- [Porsche Mission-E]()
+
+- [REST without PUT](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
+- [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.2tpky4xfc)
