@@ -5,9 +5,9 @@ reading_time:     true
 words_per_minute: 200
 
 # Your site's domain goes here -- When testing locally leave blank or use http://localhost:4000
-#url: https://mrfields.net
-#enforce_ssl: mrfields.net
-url: http://127.0.0.1:4000
+url: https://mrfields.net
+enforce_ssl: mrfields.net
+
 
 # Owner/author information
 owner:
@@ -31,8 +31,8 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-90475269-1
+google_verify: google0fa24c060788d46b.html  
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
