@@ -32,7 +32,7 @@
 - [Growth devours](https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131)
 
 - [Jaguar I-pace](http://insideevs.com/jaguar-i-pace-220-mile-all-electric-i-pace-suv-to-arrive-in-2018/)
-- [Porsche Mission-E]()
+- [Porsche Mission-E](http://www.porsche.com/microsite/mission-e/international.aspx)
 
 - [REST without PUT](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 - [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.2tpky4xfc)
