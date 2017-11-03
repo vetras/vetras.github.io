@@ -8,7 +8,6 @@ words_per_minute: 200
 url: https://mrfields.net
 enforce_ssl: mrfields.net
 
-
 # Owner/author information
 owner:
   name:           Mr Fields
@@ -34,7 +33,7 @@ background:
 google_analytics: UA-90475269-1
 google_verify: AoRpIv06pfrcBkMSzypS1Xub14b-oNu17tOJ3S2kCP8
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify: 
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Lisbon
@@ -89,3 +88,5 @@ exclude:
   - package.json
   - spec
   - tmp
+  - .jshintrc
+  - .gitignore

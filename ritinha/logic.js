@@ -39,7 +39,7 @@ function pad_n(n, width, z) {
 
 function updateView() {
     var now = new Date();
-    var targetDate = new Date(2016, 10, 12);
+    var targetDate = new Date(2017, 11-1, 12);
     var timeDiff = timeDifference(targetDate, now);
     var timeStr = 'Faltam ' + pad(timeDiff.days) + ' Dias ' + pad(timeDiff.hours) + ' : ' + pad(timeDiff.minutes) + ' : ' + pad(timeDiff.seconds);
     
