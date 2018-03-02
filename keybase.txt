@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/vetras
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mrfields.net
+  * I am vetras (https://keybase.io/vetras) on keybase.
+  * I have a public key ASB7QumeHGpIFd9irfPQJHoFetPY9qwAijqUM_ESd0lb_go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a3c0bf712a931ad3f85517bd8acb1c8b1831e5fdd2a8395ce96f5050af77702e0a",
+      "host": "keybase.io",
+      "kid": "01207b42e99e1c6a4815df62adf3d0247a057ad3d8f6ac008a3a9433f11277495bfe0a",
+      "uid": "175c624ee700dd7335fbc0a1fca7ea19",
+      "username": "vetras"
+    },
+    "merkle_root": {
+      "ctime": 1519921657,
+      "hash": "20e02a46688f4445b16f1836a5fd813f125221330c98d07614e5d3d14d83b8a6a895da7e8587917f1c6a9d8f18ce7d59238b78291154a6e931c5dd0f4cd0d7e0",
+      "hash_meta": "f5f26dcb7dfb667aa803c10c54c19ebfbd5811f76caac8899b1fe84ffb719489",
+      "seqno": 2171636
+    },
+    "service": {
+      "hostname": "mrfields.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.44"
+  },
+  "ctime": 1519921735,
+  "expire_in": 504576000,
+  "prev": "9c11eadb4b69e3e5e4a32b30b229f11111ab865b9c1419c6e1d3aecdff3e4c8e",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge0LpnhxqSBXfYq3z0CR6BXrT2PasAIo6lDPxEndJW/4Kp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTNjMGJmNzEyYTkzMWFkM2Y4NTUxN2JkOGFjYjFjOGIxODMxZTVmZGQyYTgzOTVjZTk2ZjUwNTBhZjc3NzAyZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2I0MmU5OWUxYzZhNDgxNWRmNjJhZGYzZDAyNDdhMDU3YWQzZDhmNmFjMDA4YTNhOTQzM2YxMTI3NzQ5NWJmZTBhIiwidWlkIjoiMTc1YzYyNGVlNzAwZGQ3MzM1ZmJjMGExZmNhN2VhMTkiLCJ1c2VybmFtZSI6InZldHJhcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxOTkyMTY1NywiaGFzaCI6IjIwZTAyYTQ2Njg4ZjQ0NDViMTZmMTgzNmE1ZmQ4MTNmMTI1MjIxMzMwYzk4ZDA3NjE0ZTVkM2QxNGQ4M2I4YTZhODk1ZGE3ZTg1ODc5MTdmMWM2YTlkOGYxOGNlN2Q1OTIzOGI3ODI5MTE1NGE2ZTkzMWM1ZGQwZjRjZDBkN2UwIiwiaGFzaF9tZXRhIjoiZjVmMjZkY2I3ZGZiNjY3YWE4MDNjMTBjNTRjMTllYmZiZDU4MTFmNzZjYWFjODg5OWIxZmU4NGZmYjcxOTQ4OSIsInNlcW5vIjoyMTcxNjM2fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1yZmllbGRzLm5ldCIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ0In0sImN0aW1lIjoxNTE5OTIxNzM1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjljMTFlYWRiNGI2OWUzZTVlNGEzMmIzMGIyMjlmMTExMTFhYjg2NWI5YzE0MTljNmUxZDNhZWNkZmYzZTRjOGUiLCJzZXFubyI6MTQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAMORdhsgfby5o6IZdwtPn2a5BXLGJRuhHYRU/JcOikBySS9jINyeuSrHUCnZZNUvrmaiHj1S48JKUzLKjlojyCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICY2yJumm6g9Xg8+hmLd3Cbrh/Uw6tcOydFDos036PzYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vetras
+
+==================================================================
