@@ -1,9 +1,4 @@
-
-
 function timeDifference(date, olderDate) {
-
-    //var msPerDay = 1000 * 60 * 60 * 24;
-
     var date_ms = date.getTime();
     var olderDate_ms = olderDate.getTime();
 
@@ -39,15 +34,18 @@ function pad_n(n, width, z) {
 
 function updateView() {
     var now = new Date();
-    var targetDate = new Date(2017, 11-1, 12);
+    var currentYear = now.getFullYear();
+    var targetDate = new Date(currentYear, 11 - 1, 12);
     var timeDiff = timeDifference(targetDate, now);
-    var timeStr = 'Faltam ' + pad(timeDiff.days) + ' Dias ' + pad(timeDiff.hours) + ' : ' + pad(timeDiff.minutes) + ' : ' + pad(timeDiff.seconds);
-    
-    document.getElementById('timer').innerHTML = timeStr;
+
+    var textStr = 'Faltam ' + pad(timeDiff.days) + ' Dias';
+    var timeStr = pad(timeDiff.hours) + ' : ' + pad(timeDiff.minutes) + ' : ' + pad(timeDiff.seconds);
+
+    document.getElementsByClassName('text')[0].innerHTML  = textStr;
+    document.getElementsByClassName('glue')[0].innerHTML  = 'E';
+    document.getElementsByClassName('timer')[0].innerHTML = timeStr;
 }
 
 window.onload = function (e) {
     setInterval(updateView, 1000);
 };
-
-

@@ -1,5 +1,5 @@
 * {
-    background-color: rgba(255,192,203,0.5);
+    background-color: rgba(255, 192, 203, 0.5);
 }
 
 .container {
@@ -7,8 +7,7 @@
     min-height: 10px;
 }
 
-.center
-{
+.center {
     text-align: center;
     padding: 10% 0;
 }
@@ -18,8 +17,5 @@
     margin: 0;
     font-size: 500%;
     font-family: 'Bungee Inline', cursive;
-    /*border: 2px solid  red;*/
+    border: 0px solid  red;
 }
-
-
-
