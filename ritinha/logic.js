@@ -41,9 +41,9 @@ function updateView() {
     var textStr = 'Faltam ' + pad(timeDiff.days) + ' Dias';
     var timeStr = pad(timeDiff.hours) + ' : ' + pad(timeDiff.minutes) + ' : ' + pad(timeDiff.seconds);
 
-    document.getElementsByClassName('text')[0].innerHTML  = textStr;
-    document.getElementsByClassName('glue')[0].innerHTML  = 'E';
-    document.getElementsByClassName('timer')[0].innerHTML = timeStr;
+    document.getElementsByClassName('text1')[0].innerHTML  = textStr;
+    document.getElementsByClassName('text2')[0].innerHTML  = 'E';
+    document.getElementsByClassName('text3')[0].innerHTML = timeStr;
 }
 
 window.onload = function (e) {
