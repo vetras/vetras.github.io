@@ -36,6 +36,9 @@ function updateView() {
     var now = new Date();
     var currentYear = now.getFullYear();
     var targetDate = new Date(currentYear, 11 - 1, 12);
+    if(targetDate < now) {
+        targetDate = new Date(currentYear + 1, 11 - 1, 12);
+    }
     var timeDiff = timeDifference(targetDate, now);
 
     var textStr = 'Faltam ' + pad(timeDiff.days) + ' Dias';
