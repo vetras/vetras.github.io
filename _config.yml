@@ -20,11 +20,10 @@ owner:
   stackoverflow:  https://stackoverflow.com/users/797369/vetras?tab=profile
   linkedin:       carlosmiguelcampos
   instagram:      vetraspt
-  flickr:         
-  tumblr:         
-  facebook: 
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  flickr:
+  tumblr:
+  facebook:
+
 
 # Background image to be tiled on all pages
 background: 
