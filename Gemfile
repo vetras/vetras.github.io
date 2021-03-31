@@ -14,4 +14,5 @@ gem "jekyll-gist"
 gem 'guard'
 gem 'guard-jekyll-plus'
 gem 'guard-livereload'
+gem 'webrick'
 
