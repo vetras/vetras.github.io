@@ -31,8 +31,8 @@ background:
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-90475269-1
 google_verify: AoRpIv06pfrcBkMSzypS1Xub14b-oNu17tOJ3S2kCP8
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: 
+# https://ssl.bing.com/webmaster/configure/verify/ownership
+bing_verify: E45F487AE767BF191EDA993C86E2E625
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Lisbon
