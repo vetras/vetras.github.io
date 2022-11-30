@@ -12,6 +12,10 @@
   gtag('js', new Date());
 
   gtag('config', '{{ site.google_analytics }}');
+
+  // dual tagging
+  // https://support.google.com/analytics/answer/9310895#gtagjs-enable-basic&zippy=%2Cin-this-article
+  gtag('config', '{{ site.google_v4 }}');
 </script>
 
 {% endif %}
