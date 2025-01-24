@@ -1,0 +1,34 @@
+@keyframes fadeInBackground {
+    0% {
+        background-color: rgb(161, 181, 200);
+    }
+    100% {
+        background-color: rgb(189, 34, 60);
+    }
+}
+
+html, body {
+    animation: fadeInBackground 10s ease-in-out;
+     background-color: rgb(189, 34, 60); 
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Bungee Inline', cursive;
+}
+
+.container {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    text-align: center;
+
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.row {
+    font-size: 400%;
+    /* border: 1px solid  red; */
+}
