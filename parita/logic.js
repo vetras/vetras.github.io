@@ -35,9 +35,9 @@ function pad_n(n, width, z) {
 function updateView() {
     var now = new Date();
     var currentYear = now.getFullYear();
-    var targetDate = new Date(currentYear, 11 - 1, 12);
+    var targetDate = new Date(currentYear, 4 - 1, 25);
     if(targetDate < now) {
-        targetDate = new Date(currentYear + 1, 11 - 1, 12);
+        targetDate = new Date(currentYear + 1, 4 - 1, 25);
     }
     var timeDiff = timeDifference(targetDate, now);
 
