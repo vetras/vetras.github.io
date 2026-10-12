@@ -1,0 +1,46 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>QR Code Generator</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <main class="container">
+        <h1>QR Code</h1>
+
+        <form id="qr-form" autocomplete="off">
+            <div class="input-wrap">
+                <input id="qr-text" type="text" placeholder="Text or URL" aria-label="Text or URL" autofocus>
+                <button id="qr-clear" class="clear" type="button" aria-label="Clear" hidden>&times;</button>
+            </div>
+            <button type="submit">Generate QR Code</button>
+        </form>
+
+        <p id="qr-message" class="message" role="alert"></p>
+        <canvas id="qr-canvas" hidden></canvas>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js"
+        integrity="sha512-ZDSPMa/JM1D+7kdg2x3BsruQ6T/JpJo3jWDWkCZsP+5yVyp1KfESqLI+7RqB5k24F7p2cV7i2YHh/890y6P6Sw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="./logic.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+        gtag('config', '{{ site.google_v4 }}');
+    </script>
+</body>
+
+</html>

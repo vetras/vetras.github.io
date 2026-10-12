@@ -1,0 +1,142 @@
+:root {
+    --bg: #fafafa;
+    --fg: #222;
+    --muted: #888;
+    --border: #ccc;
+    --accent: #222;
+    --accent-fg: #fafafa;
+    --error: #c0392b;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #161616;
+        --fg: #eee;
+        --muted: #888;
+        --border: #444;
+        --accent: #eee;
+        --accent-fg: #161616;
+        --error: #ff6b5b;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: 1.5rem;
+
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 15vh 1rem 2rem;
+}
+
+h1 {
+    margin: 0;
+    font-weight: 300;
+    font-size: 2rem;
+    letter-spacing: 0.05em;
+}
+
+form {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+}
+
+input, button {
+    font: inherit;
+    padding: 0.7rem 1rem;
+    border-radius: 6px;
+}
+
+.input-wrap {
+    position: relative;
+    width: 100%;
+}
+
+input {
+    width: 100%;
+    padding-right: 2.75rem; /* room for the clear button */
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--fg);
+}
+
+input::placeholder {
+    color: var(--muted);
+}
+
+input:focus, button:focus-visible {
+    outline: 2px solid var(--fg);
+    outline-offset: 2px;
+}
+
+button {
+    border: 1px solid var(--accent);
+    background: var(--accent);
+    color: var(--accent-fg);
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.85;
+}
+
+.clear {
+    position: absolute;
+    top: 50%;
+    right: 0.4rem;
+    transform: translateY(-50%);
+
+    width: 2rem;
+    height: 2rem;
+    padding: 0;
+    border: none;
+    border-radius: 50%;
+    background: transparent;
+    color: var(--muted);
+    font-size: 1.5rem;
+    line-height: 1;
+}
+
+.clear:hover {
+    opacity: 1;
+    color: var(--fg);
+}
+
+.clear[hidden] {
+    display: none;
+}
+
+.message {
+    margin: 0;
+    min-height: 1.2em;
+    color: var(--error);
+}
+
+canvas {
+    width: min(100%, 288px);
+    height: auto;
+    image-rendering: pixelated;
+    border-radius: 6px;
+}
+
+canvas[hidden] {
+    display: none;
+}
