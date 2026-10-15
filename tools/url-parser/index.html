@@ -1,0 +1,42 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>URL Parser</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <main class="container">
+        <h1>URL Parser</h1>
+
+        <form id="url-form" autocomplete="off" onsubmit="return false">
+            <div class="input-wrap">
+                <input id="url-text" type="text" placeholder="Paste a URL" aria-label="URL" spellcheck="false" autofocus>
+                <button id="url-clear" class="clear" type="button" aria-label="Clear" hidden>&times;</button>
+            </div>
+        </form>
+
+        <p id="url-message" class="message" role="alert"></p>
+        <div id="url-report" class="report" hidden></div>
+    </main>
+
+    <script src="./logic.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+        gtag('config', '{{ site.google_v4 }}');
+    </script>
+</body>
+
+</html>
